@@ -34,7 +34,7 @@ In this challenge lab you will build a full end-to-end serverless solution for *
 ### 🚀 Run the following Commands in CloudShell
 
 ```bash
-curl -LO https://raw.githubusercontent.com/Itsabhishek7py/GoogleCloudSkillsboost/refs/heads/main/Develop%20Serverless%20Apps%20with%20Firebase%3A%20Challenge%20Lab/aakash.sh
+curl -LO https://raw.githubusercontent.com/AAKASH22269796/demo_try/refs/heads/main/aakash.sh
 sudo chmod +x aakash.sh
 ./aakash.sh
 ```
